@@ -1,3 +1,3 @@
-# Charnwood Challenge
+# 1st Nanpantan Scouts
 
-Charnwood Challenge
+Repo for 1st Nanpantan Scouts website. 
