@@ -1,2 +1,3 @@
-# charnwoodchallenge.github.io
+# Charnwood Challenge
+
 Charnwood Challenge
