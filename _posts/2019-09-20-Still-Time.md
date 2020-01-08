@@ -1,3 +1,8 @@
+---
+layout: post
+title: Still Time 2019
+---
+
 Still time to enter for the big race, so don’t delay. The spread of runners from different clubs across Leicestershire, Nottinghamshire, Derbyshire and beyond is really good to see.
 
 Just a quick reminder/update on a few things to be aware of regarding the event:
@@ -18,9 +23,9 @@ Registration will open at 8:30 for collection of race numbers and any last minut
 
 The start times for the event are as follows:
 
-9:00 Walkers
-10:00 Runners
-10:30 Junior Challenge
+- 9:00 Walkers
+- 10:00 Runners
+- 10:30 Junior Challenge
 
 ## Route
 The route for the 10 mile event can be found here: www.plotaroute.com/route/662696
