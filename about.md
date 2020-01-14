@@ -18,7 +18,7 @@ Main event entry fee is TBC (affiliated) for runners and walkers, or TBC (unaffi
 
 Junior Challenge approx 1 mile run/walk off road for children, £TBC on the day.
 
-# One the Day
+# On the Day
 
 ## Registration
 
