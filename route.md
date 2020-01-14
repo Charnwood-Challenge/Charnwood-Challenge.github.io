@@ -6,7 +6,7 @@ permalink: /route/
 
 The route starts at the Nanpantan Scout Group HQ in Loughborough, and makes its way across the fields to Woodhouse Eaves on paths and bridleways.  Entrants then tackle the steep climbs over Windmill Hill, Broombriggs, and the Beacon, before heading towards the finish through the Charnwood countryside.
 
-The provisional route can be found here: <https://charnwoodchallenge.me/Leaflet/#14/52.7366/-1.2375> or <www.plotaroute.com/route/662696>
+The provisional route can be found here: <https://charnwoodchallenge.me/Leaflet/#14/52.7366/-1.2375> or www.plotaroute.com/route/662696
 
 Maps of the confirmed route will be available for viewing at the Event HQ on the morning of the event.
 
