@@ -4,6 +4,20 @@ title: Results
 permalink: /results/
 ---
 
-# Results
+# 2020
 
 Coming soon!
+
+# 2019
+
+## Seniors
+
+## Juniors
+
+# 2018
+
+## Seniors
+
+## Juniors
+
+
