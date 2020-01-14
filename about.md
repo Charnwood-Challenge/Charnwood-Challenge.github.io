@@ -10,7 +10,7 @@ The Charnwood Challenge is an off-road event for runners and walkers. The main e
 
 Provisional date of **Sunday 20th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
 
-# [Route](https://charnwoodchallenge.me/route)
+# Route -[Click Here](https://charnwoodchallenge.me/route)
 
 # How to Enter
 
