@@ -18,6 +18,8 @@ Coming soon!
 
 ## Seniors
 
+![Results 2018 Seniors](/images/2018_Results.jpg)
+
 ## Juniors
 
-
+![Results 2018 Juniors](/images/2018_Results_Juniors.jpg)
