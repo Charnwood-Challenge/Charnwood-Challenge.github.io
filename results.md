@@ -12,7 +12,12 @@ Coming soon!
 
 ## Seniors
 
+https://drive.google.com/file/d/1lmzH1YaurDtsWO89zZHJFfT4tYGqG4mM/view?usp=sharing
+
+
 ## Juniors
+
+Not published, please contact for details. 
 
 # 2018
 
