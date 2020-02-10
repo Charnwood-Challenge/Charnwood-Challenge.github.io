@@ -172,3 +172,12 @@ Not published, please contact for details.
 
 <link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
+
+<script type="text/javascript">
+	var matches = document.querySelectorAll("table");
+
+	var results2019Run = new Tabulator(matches[0], {
+		height:400,
+		layout:"fitColumns",
+	});
+</script>
