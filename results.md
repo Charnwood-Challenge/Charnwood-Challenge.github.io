@@ -168,3 +168,7 @@ Not published, please contact for details.
 ## Juniors
 
 ![Results 2018 Juniors](/images/2018_Results_Juniors.jpg)
+
+
+<link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
