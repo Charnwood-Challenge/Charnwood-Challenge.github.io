@@ -4,9 +4,9 @@ title: Junior Challenge
 permalink: /juniorchallenge/
 ---
 
-Junior Challenge / Fun Run 
+# Junior Challenge / Fun Run 
 
-The ‘Charnwood Junior Challenge’ will be a 1 mile (1.6 km) fun run/walk on an off-road route for children and anyone else who fancies a shorter challenge, and starts at 10.30am.  This a challenging cross country course, so don't expect to keep your feet dry! 
+The ‘Charnwood Junior Challenge’ will be a 1 mile (1.6 km) fun run/walk on an off-road route for children and anyone else who fancies a shorter challenge, and starts at 10.30am.  This a challenging cross country course (see [route](https://charnwoodchallenge.me/route/)), so don't expect to keep your feet dry! 
 
 Please note that all children under 8 must be accompanied by a person 18 or over.  
 
