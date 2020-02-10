@@ -157,7 +157,7 @@ Coming soon!
 
 ## Juniors
 
-Not published, please contact for details. 
+Not published, please contact for details.
 
 # 2018
 
@@ -179,5 +179,18 @@ Not published, please contact for details.
 	var results2019Run = new Tabulator(matches[0], {
 		height:400,
 		layout:"fitColumns",
+	});
+
+	var results2019Walk = new Tabulator(matches[1], {
+		height:400,
+		layout:"fitColumns",
+		columns:[
+			{field:"place", title:"Place"},
+			{field:"bib", title:"Bib"},
+			{field:"time", title:"Time"},
+			{field:"runner", title:"Runner"},
+			{field:"gender", title:"Gender"},
+			{field:"course", title:"Course"},
+		]
 	});
 </script>
