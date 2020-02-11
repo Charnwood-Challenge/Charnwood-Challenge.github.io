@@ -6,13 +6,15 @@ permalink: /raceinformation/
 
 ## Charnwood Challenge 2020
 
-The Charnwood Challenge is an off-road event for runners and walkers. The main event covers approximately 10 miles route through the Charnwood countryside, with a shorter (1 mile), but no less scenic, Junior Challenge event, open to all ages and abilities. To see [route click here](https://charnwoodchallenge.me/route/)
-
-https://charnwoodchallenge.me/raceinformation/#route
+The Charnwood Challenge is an off-road event for runners and walkers. The main event covers approximately 10 miles route through the Charnwood countryside, with a shorter (1 mile), but no less scenic, Junior Challenge event, open to all ages and abilities. To see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
 
 Provisional date of **Sunday 20th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
 
+### Dogs 
+
 **Sorry, but as the route passes through several fields where livestock may be present, including private land, unfortunately dogs are not permitted to accompany runners or walkers competing in the event.**
+
+## Contents
 
 * [Route](https://charnwoodchallenge.me/raceinformation/#route)
 * [How to Enter](https://charnwoodchallenge.me/raceinformation/#how-to-enter)
