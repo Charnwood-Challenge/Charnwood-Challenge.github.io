@@ -157,7 +157,7 @@ Coming soon!
 
 ## Juniors
 
-Not published, please contact for details. 
+Not published, please contact for details.
 
 # 2018
 
@@ -168,3 +168,29 @@ Not published, please contact for details.
 ## Juniors
 
 ![Results 2018 Juniors](/images/2018_Results_Juniors.jpg)
+
+
+<link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
+
+<script type="text/javascript">
+	var matches = document.querySelectorAll("table");
+
+	var results2019Run = new Tabulator(matches[0], {
+		height:400,
+		layout:"fitColumns",
+	});
+
+	var results2019Walk = new Tabulator(matches[1], {
+		height:400,
+		layout:"fitColumns",
+		columns:[
+			{field:"place", title:"Place"},
+			{field:"bib", title:"Bib"},
+			{field:"time", title:"Time"},
+			{field:"runner", title:"Runner"},
+			{field:"gender", title:"Gender"},
+			{field:"course", title:"Course"},
+		]
+	});
+</script>
