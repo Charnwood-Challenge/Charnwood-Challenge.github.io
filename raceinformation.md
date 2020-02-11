@@ -15,7 +15,7 @@ Provisional date of **Sunday 20th September** for this year's event - we should 
 **Sorry, but as the route passes through several fields where livestock may be present, including private land, unfortunately dogs are not permitted to accompany runners or walkers competing in the event.**
 
 * [Route](https://charnwoodchallenge.me/raceinformation/#route)
-* How to Enter](https://charnwoodchallenge.me/raceinformation/#how-to-enter)
+* [How to Enter](https://charnwoodchallenge.me/raceinformation/#how-to-enter)
 * [On the Day](https://charnwoodchallenge.me/raceinformation/#on-the-day)
   * [Registration](https://charnwoodchallenge.me/raceinformation/#registration)
   * [Start Times](https://charnwoodchallenge.me/raceinformation/#start-times)
