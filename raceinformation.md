@@ -10,10 +10,6 @@ The Charnwood Challenge is an off-road event for runners and walkers. The main e
 
 Provisional date of **Sunday 20th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
 
-### Dogs 
-
-**Sorry, but as the route passes through several fields where livestock may be present, including private land, unfortunately dogs are not permitted to accompany runners or walkers competing in the event.**
-
 ## Junior Challenge
 
 
@@ -23,7 +19,7 @@ Please note that all children under 8 must be accompanied by a person 18 or over
 
 Children (and adults) can enter on the day at a cost of £3.00 per person (adults accompanying children: free) 
 
-All finishers will receive a special Charnwood Challenge medal, and there will also be prizes for the 1st boy and 1st girl in the Under 8, 8 to 10, and 11+ categories, with prizegiving around 11am. 
+All finishers will receive a special Charnwood Challenge medal, and there will also be prizes for the 1st and 2nd boy, and 1st and 2nd girl in the Under 8, 8 to 10, and 11+ categories, with prizegiving around 11am. 
 
 ## Contents
 
@@ -61,6 +57,10 @@ The route will be partly marked, with signs at key points and tape streamers alo
 Marshalls will be positioned at road crossings to help ensure the safety of competitors, but please be aware that they are not permitted to stop traffic, just to indicate when it may be safe to cross.  Please be sure to follow any instructions given. 
 
 Note that there are a few places on the route where there are nettles and brambles along the tracks and, while we have tidied up the worst of these, if this is likely to cause a problem we suggest that you wear long leg running tights, or trousers for the walkers.
+
+### Dogs 
+
+**Sorry, but as the route passes through several fields where livestock may be present, including private land, unfortunately dogs are not permitted to accompany runners or walkers competing in the event.**
 
 # How to Enter
 
@@ -133,7 +133,4 @@ As sections of the route are rural, rough underfoot, and remote from the road, i
 
 In the unfortunate situation that you are unable to finish the event and need to retire, please make you way to the nearest road crossing, and inform the marshal located there, who will be able to provide assistance. 
 
-## Late entries
-
-If you have any friends who are yet to enter then we will be taking entries up until Saturday evening if we haven't reached our limit (and maybe even on the day).
 
