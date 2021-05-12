@@ -4,9 +4,13 @@ title: Results
 permalink: /results/
 ---
 
-# 2020
+# 2021
 
 Coming soon!
+
+# 2020
+
+Race cancelled
 
 # 2019
 
