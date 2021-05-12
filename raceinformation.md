@@ -4,11 +4,11 @@ title: Race Information
 permalink: /raceinformation/
 ---
 
-## Charnwood Challenge 2020
+## Charnwood Challenge 2021
 
 The Charnwood Challenge is an off-road event for runners and walkers. The main event covers approximately 10 miles route through the Charnwood countryside, with a shorter (1 mile), but no less scenic, Junior Challenge event, open to all ages and abilities. To see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
 
-Provisional date of **Sunday 20th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
+Provisional date of **Sunday 26th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
 
 ## Junior Challenge
 
