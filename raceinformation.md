@@ -7,7 +7,9 @@ permalink: /raceinformation/
 
 More details coming soon! 
 
-Provisional date of **Sunday 26th September** for this year's event - we should be in a position to confirm this soon, with more details to follow when entries open.
+A provisional date of **Sunday 26th September** has been set for this year's event.
+We expect to be in a position to open entries in July, and provide further details of the race formats.
+
 
 Previous Routes (2021 course TBC):
 
