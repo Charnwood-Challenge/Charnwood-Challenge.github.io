@@ -5,7 +5,8 @@ permalink: /raceinformation/
 ---
 
 ## Charnwood Challenge 2021
-Date of **Sunday 26th September** for this year's event.
+Date of **Sunday 26th September** has been confirmed for this year's event.
+Enter at [SI Entries](https://www.sientries.co.uk/event.php?event_id=8358)
 
 The Charnwood Challenge is an off-road event for runners and walkers and covers approximately 10 miles route through the Charnwood countryside. To see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
 
