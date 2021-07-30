@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Race Information 2021
+title: Race Information
 permalink: /raceinformation/
 ---
 
