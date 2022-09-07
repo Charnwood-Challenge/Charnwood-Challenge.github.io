@@ -9,7 +9,7 @@ Date of **Sunday 18th September 2022** has been confirmed for this year's event.
 Enter at [SI Entries](www.sientries.co.uk/event.php?elid=Y&event_id=10033)!
 
 
-The Charnwood Challenge is an off-road event for runners and walkers and covers approximately 10 miles route through the Charnwood countryside. To see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
+The Charnwood Challenge is an off-road event for runners and walkers and covers approximately 10 miles route through the Charnwood countryside, tos see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
 
 
 ## Contents
