@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Race Information
-permalink: /raceinformation/
+title: Race Information 2021
+permalink: /raceinformation2021/
 ---
 
 ## Charnwood Challenge 2021
