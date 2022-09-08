@@ -4,13 +4,20 @@ title: Results
 permalink: /results/
 ---
 
-# 2021
+# 2022
 
 Coming soon!
+
+# 2021
+
+[Results](https://charnwoodchallenge.me/Leaflet/Charnwood_Challenge_2021_RESULTS.pdf)
+
+[Event Info](https://charnwoodchallenge.me/raceinformation2021/)
 
 # 2020
 
 Race cancelled
+[Event Info](https://charnwoodchallenge.me/raceinformation2020/)
 
 # 2019
 
