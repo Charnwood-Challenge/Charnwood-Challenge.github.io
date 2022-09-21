@@ -226,7 +226,7 @@ Race cancelled
 
 ### Run
 
-| ﻿Place 	| Bib 	| Time     	| Runner             	| Gender 	| Course      	|
+| ﻿Place 	| Bib 	| Time     	| Entrant             	| Gender 	| Course      	|
 |-------	|-----	|----------	|--------------------	|--------	|-------------	|
 | 1     	| 119 	| 01:12:51 	| Tim Hartley        	| Male   	| 10 Mile Run 	|
 | 2     	| 69  	| 01:14:58 	| Simon Mayes        	| Male   	| 10 Mile Run 	|
@@ -332,7 +332,7 @@ Race cancelled
 
 ### Walk
 
-| Place 	| Bib 	| Time     	| Runner             	| Gender 	| Course       	|
+| Place 	| Bib 	| Time     	| Entrant             	| Gender 	| Course       	|
 |-------	|-----	|----------	|--------------------	|--------	|--------------	|
 | 1     	| 198 	| 02:15:11 	| Colin Vesty        	| Male   	| 10 Mile Walk 	|
 | 2     	| 188 	| 02:15:38 	| Hardeep Minhas     	| Male   	| 10 Mile Walk 	|
@@ -385,12 +385,32 @@ Not published, please contact for details.
 <script type="text/javascript">
 	var matches = document.querySelectorAll("table");
 
-	var results2019Run = new Tabulator(matches[0], {
+	var results2022Run = new Tabulator(matches[0], {
+		height:400,
+		layout:"fitColumns",
+	});
+	
+	var results2022JuniorWalk = new Tabulator(matches[1], {
+		height:400,
+		layout:"fitColumns",
+	});
+	
+	var results2022SeniorWalk = new Tabulator(matches[2], {
+		height:400,
+		layout:"fitColumns",
+	});
+	
+	var results2022FunRun = new Tabulator(matches[3], {
+		height:400,
+		layout:"fitColumns",
+	});
+	
+	var results2019Run = new Tabulator(matches[4], {
 		height:400,
 		layout:"fitColumns",
 	});
 
-	var results2019Walk = new Tabulator(matches[1], {
+	var results2019Walk = new Tabulator(matches[5], {
 		height:400,
 		layout:"fitColumns",
 		columns:[
