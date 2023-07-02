@@ -4,11 +4,11 @@ title: Race Information
 permalink: /raceinformation/
 ---
 
-## Charnwood Challenge 2022
-Date of **Sunday 18th September 2022** has been confirmed for this year's event.
-Enter at [SI Entries](https://www.sientries.co.uk/event.php?elid=Y&event_id=10033)!
+## Charnwood Challenge 2023
+Date of **Sunday 17th September 2023** has been confirmed for this year's event.
+Enter at [SI Entries](https://www.sientries.co.uk/list.php?event_id=11734)!
 
-[Final Details](https://charnwoodchallenge.me/Leaflet/ChCh2022_Final_Details_v2.pdf)
+[Final Details to follow]
 
 The Charnwood Challenge is an off-road event for runners and walkers and covers approximately 10 miles route through the Charnwood countryside, tos see [route click here](https://charnwoodchallenge.me/raceinformation/#route)
 
@@ -55,7 +55,7 @@ Note that there are a few places on the route where there are nettles and brambl
 
 # How to Enter
 
-Main event entry fee is £13 (affiliated) for runners and walkers, or £15 (unaffiliated).
+Main event entry fee is £14 (affiliated) for runners and walkers, or £16 (unaffiliated).
 
 
 # On the Day
