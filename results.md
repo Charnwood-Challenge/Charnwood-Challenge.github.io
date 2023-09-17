@@ -18,7 +18,7 @@ permalink: /results/
 |6|324|1:21:09|Nick Bulloch|Male|Barnes Runners|
 |7|427|1:23:33|Graham Watson|Male|Charnwood Athletics|
 |8|363|1:23:44|David Hill|Male|BADGERS|
-|9|401|1:23:49|Matt Ryder|Male| |
+|9|401|1:23:49|Matt Ryder|Male|	|
 |10|343|1:24:35|Alasdair Fletcher|Male| |
 |11|430|1:24:41|Neil Winkless|Male|Lonely Goat RC|
 |12|399|1:25:48|Matthew Rollins|Male| |
@@ -123,6 +123,14 @@ permalink: /results/
 |111|423|2:40:55|Suki Vernon|Female| |
 |112|409|2:41:00|Mark Smith|Male|Robin Hood Runners|
 |113|414|2:41:02|Darren Stell|Male|Team Anstey Amblers and Runners|
+
+## 10 Mile Challenge Junior Walkers Results
+
+|Place|Bib|Time|Entrant|Gender|Team|
+|-----|---|----|-------|------|----|
+|1|118|3:43:42|Isobelle Leach|Female| |
+|1|102|3:43:44|Molly Button|Female| |
+
 
 # 2022
 
