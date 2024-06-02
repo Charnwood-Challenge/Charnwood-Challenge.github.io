@@ -1,4 +1,4 @@
-The race is on!
+
 Entries can be found at [SI Entries](https://www.sientries.co.uk/event.php?elid=Y&event_id=13506). Please sign up and share the link.
 
 Date of Sunday 6th October 2024 has been confirmed for this year's event. Enter at SI Entries!
