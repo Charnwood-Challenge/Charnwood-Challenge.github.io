@@ -54,7 +54,8 @@ land, unfortunately dogs are not permitted to accompany runners or walkers compe
 
 # How to Enter
 
-Main event entry fee is £14 (affiliated) for runners and walkers, or £16 (unaffiliated).
+Main event entry fee is £15 (affiliated) for runners and walkers, or £17 (unaffiliated).
+Junior Challenge is £4 and entry on the day at the event headquarters.
 
 
 # On the Day
@@ -77,6 +78,8 @@ The start times for the event are as follows:
  9:00  Walkers 
 
  10:00 Runners
+
+ 10:15 Fun Run
  
  Both will be a mass start, with a short briefing 5 minutes beforehand.
  
