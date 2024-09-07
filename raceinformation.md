@@ -30,13 +30,22 @@ The Charnwood Challenge is an off-road event for runners and walkers and covers 
 
 ## Route
 
-The route is as per previous years (details on the website) with only minor changes coming into the
-Beacon Hill Upper Carpark due to the new fence which has been installed (and watch out for a couple of
-low tree branches on the Permissive Path!).
-Please note that the Beacon Hill Sculpture trail will still be in place on the day of the event, on the
-section of the route between Beacon Hill Upper Car Park and Deans Lane. By all means enjoy the works
-of art as you pass by, but please be mindful of and courteous to other members of the public when
-running/walking through this area and allow sufficient space when passing anyone.
+The route is as per previous years (details on the website), other than some minor changes to the start
+and finish locations to accommodate the change in Event HQ venue. The course will still be
+approximately the same length (~10 miles), so any records should still stand!
+Entrants are reminded of the hazards inherent in off-road/trail running and acknowledge that they are
+entering and running/walking this race at their own risk and are responsible for their own safety during
+the event. These hazards include rough and uneven ground, such as rocks, mud, tree roots, and wet
+grass, together with steep climbs and descents, and that some sections are rural and remote from road
+access.
+In particular, this year we are aware that some sections of the permissive path alongside the stream
+after the Dean’s Lane road crossing are quite eroded in places, so please watch your footing (as on the
+rest of course). Although some parts of the course have been quite overgrown over the summer,
+hopefully these will have died down by the date of the event.
+(In addition, there are a couple of low tree branches on the permissive path which we hope will be
+removed before the day, and will confirm this during the pre-race briefing.)
+Participants are reminded of the Event Disclaimer which they will have accepted as part of the entry
+process.
 Ideally we would like all participants to be safely back at the Scout HQ by 1pm so we can stand down the
 marshal team, who will have been out on the course since early that morning. While we would like
 everyone to be able to enjoy the event and take on the challenge at their level, please bear this in mind
@@ -60,6 +69,19 @@ Junior Challenge is £4 and entry on the day at the event headquarters.
 
 # On the Day
 
+## Event HQ
+
+As we are now in a position to start work on the replacement of the group’s ageing headquarters
+building, this year we are unable to use the scout hut or its grounds for the event. However, due to the
+kind support of the local landowner whose fields the race usually passes through in the final half mile,
+we will be using these as the location for the Event HQ.
+Registration, bag drop and refreshments etc. will therefore be situated outside in tents / event shelters
+so please be prepared in case the weather is forecast to be wet, cold and/or windy. Should the weather
+forecast for the day of the event be particularly bad then we may have a marquee available, but this
+isn&#39;t guaranteed.
+Any running clubs are welcome to bring club tents for their members to use for getting changed etc. and
+marshals will point you to the designated area for these, close to the race start and finish.
+
 ## Registration 
 
 Registration will open at 8:30 for collection of race numbers and any last-minute queries.
@@ -78,7 +100,8 @@ The start times for the event are as follows:
  9:00  Walkers 
 
  10:00 Runners
-
+ Both will be a mass start, with a short briefing 5 minutes beforehand.
+ 
  10:15 Fun Run
  
  Both will be a mass start, with a short briefing 5 minutes beforehand.
@@ -94,13 +117,12 @@ bring your own reusable water bottle then we will happily refill it for you.
 
 ## Refreshments 
 
-Refreshments will be available to purchase at the Scout HQ, including tea, coffee, soft drinks, cakes, and
-a selection of other snacks.
+Refreshments will be available to purchase at the Event HQ, including tea, coffee, soft drinks, cakes, and a selection of other snacks.
 
 
 ## Changing and Toilets 
 
-Toilets will be provided at the event HQ, however no separate changing facilities are available.
+Toilets will be provided at the Event HQ, however no separate changing facilities are available.
 During the event itself, please note that there are public toilets at several points close to the route (i.e.
 top or bottom of Beacon Hill, Woodhouse Eaves village), although a short detour may be needed –
 please ask a marshal for directions if necessary and advise them of your race number and that you need
@@ -109,14 +131,14 @@ to deviate from the event route so we can track your location.
 
 ## Bag Storage 
 
-Secure bag storage will be situated in the Scout HQ building, manned by members of the scout group.
+Secure bag storage will be situated in the Event HQ building, manned by members of the scout group.
 You will need to show your race number to pick up your bag after the race.
 
 ## Prizes 
 
 Prizes will be awarded in categories to include:
 Runners – 1 st man, 1 st lady, 2 nd man; 2 nd lady, 3 rd man, 3 rd lady
-Walkers – 1 st man, 1 st lady
+Walkers – 1 st man, 1 st lady, 1st junior
 (Please be aware that any walkers observed running, or admitting to (!), will be reclassified.)
 
 ## Parking 
@@ -136,7 +158,7 @@ at the owner’s risk.
 
 ## First Aid and Emergencies 
 
-For any first aid or other emergencies experienced while at the Scout HQ, please inform a marshal. First
+For any first aid or other emergencies experienced while at the Event HQ, please inform a marshal. First
 aid cover on the course and at the event HQ will be provided by experienced first aiders.
 As sections of the route are rural, rough underfoot, and remote from the road, in the event of an
 accident or a runner becoming unwell please stop to provide assistance if necessary, and ensure that a
@@ -144,6 +166,20 @@ marshal located at one of the road crossings is informed of the situation as soo
 In the unfortunate situation that you are unable to finish the event and need to retire, please make your
 way to the nearest road crossing, and inform the marshal located there, who will be able to provide
 assistance. We also ask that you report to the finish before you leave the event.
+
+## Junior Challenge Fun Run
+
+This year we are once again organising a 1 mile (1.6 km) ‘fun run’ on a cross-country type route for
+children, any parents who are accompanying them, and anyone else who fancies a shorter challenge.
+Please note that all children under 8 must be accompanied around the course by a parent or responsible
+person aged 18 or over.
+The fun run route is entirely off-road, on paths and tracks which are quite rough underfoot and may be
+muddy, and includes a small stream crossing.
+Entry will be on the day (or via OSM for Nanpantan Scout Group members) at a cost of £4 per person
+(adults accompanying children: free)
+The fun run start will be at 10.15am.
+There will be a badge for all finishers, and prizes for the 1 st boy and 1 st girl in each age category:
+Under 8 (Beavers); 8 to 10 (Cubs); 11 to 14 (Scouts)
 
 ## Race Permit & Insurance 
 
