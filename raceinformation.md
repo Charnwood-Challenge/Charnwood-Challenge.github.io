@@ -46,7 +46,7 @@ hopefully these will have died down by the date of the event.
 removed before the day, and will confirm this during the pre-race briefing.)
 Participants are reminded of the Event Disclaimer which they will have accepted as part of the entry
 process.
-Ideally we would like all participants to be safely back at the Scout HQ by 1pm so we can stand down the
+Ideally we would like all participants to be safely back at the Event HQ by 1pm so we can stand down the
 marshal team, who will have been out on the course since early that morning. While we would like
 everyone to be able to enjoy the event and take on the challenge at their level, please bear this in mind
 (and we kindly request that you wait until after you have finished before stopping for lunch!).
@@ -144,7 +144,7 @@ Walkers – 1 st man, 1 st lady, 1st junior
 ## Parking 
 
 Please car share if driving to the event, where possible.
-There will be no parking for competitors on the road immediately outside the scout HQ for safety
+There will be no parking for competitors on the road immediately outside the Event HQ for safety
 reasons and to ensure access is clear for race organisers and first aid etc. As Nanpantan Road can be
 fairly busy there is the option to park at the nearby Nanpantan sports ground off Watermead Lane (LE11
 3TN). However, please be aware that this is a public carpark shared with several sports groups, and
