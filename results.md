@@ -4,6 +4,8 @@ title: Results
 permalink: /results/
 ---
 
+You can filter the results by entrant (text search), gender, or team.
+
 # 2024
 
 ## 10 Mile Challenge Runners Combined Results
