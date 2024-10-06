@@ -740,7 +740,7 @@ var tables = document.querySelectorAll("table");
 for (var i = 0; i < tables.length; i++) {
     new Tabulator(tables[i], {
         height: 400,
-        layout: "fitDataFill",
+        layout: "fitDataStretch",
         columns: [
             { title: "Place", field: "Place" },
             { title: "Bib", field: "Bib" },
