@@ -729,11 +729,8 @@ Not published, please contact for details.
 
 
 
-<link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
-<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
-
-<link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
-<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
+<link href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://unpkg.com/tabulator-tables@6.3.0/dist/js/tabulator.min.js"></script>
 
 <script type="text/javascript">
 var tables = document.querySelectorAll("table");
