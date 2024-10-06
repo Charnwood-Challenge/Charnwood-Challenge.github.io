@@ -738,31 +738,30 @@ Not published, please contact for details.
 <script type="text/javascript">
     var tables = document.querySelectorAll("table");
 
-    for (var i = 0; i < tables.length; i++) {
-        new Tabulator(tables[i], {
-            height: 400,
-            layout: "fitColumns",
-            columns: [
-                { title: "Place", field: "Place" },
-                { title: "Bib", field: "Bib" },
-                { title: "Time", field: "Time" },
-                {
-                    title: "Entrant",
-                    field: "Entrant",
-                    headerFilter: "input"  // Add text input filter
-                },
-                {
-                    title: "Gender",
-                    field: "Gender",
-                    headerFilter:true,
-                    headerFilterParams: {
-                        values:{"Male":"Male", "Female":"Female", "":""},
-                        clearable:true}
-                },
+for (var i = 0; i < tables.length; i++) {
+    new Tabulator(tables[i], {
+        height: 400,
+        layout: "fitColumns",
+        columns: [
+            { title: "Place", field: "Place" },
+            { title: "Bib", field: "Bib" },
+            { title: "Time", field: "Time" },
+            {
+                title: "Entrant",
+                field: "Entrant",
+                headerFilter: "input" // Add text input filter
+            },
+            {
+                title: "Gender",
+                field: "Gender",
+                headerFilter:true,
+                headerFilterParams: {
+                    values:{"Male":"Male", "Female":"Female", "":""},
+                    clearable:true
                 }
-                },
-                { title: "Team", field: "Team" }
-            ]
-        });
-    }
+            },
+            { title: "Team", field: "Team" } // This line was missing a comma
+        ]
+    });
+}
 </script>
