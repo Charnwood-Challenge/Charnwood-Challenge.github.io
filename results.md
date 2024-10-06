@@ -320,38 +320,38 @@ permalink: /results/
 
 |Place|Bib|Time|Entrant|Gender|Team|
 |-----|---|----|-------|------|----|
-1|144|2:00:29|Martin Button|Male|Poplar Running club|
-2|124|2:32:44|Gina Bailey|Female|Stilton Striders|
-3|165|2:38:29|Karen Ryder|Female|Ilkeston Running Club|
-4|145|2:39:52|Sheila Carruthers|Female|Shepshed Running Club|
-5|157|2:51:27|Anthony Naylor|Male||
-6|140|2:55:55|Tracey Brooke|Female||
-7|172|2:56:01|James Williams|Male||
-8|167|3:06:25|Graeme Slight|Male|Huncote Harriers|
-9|173|3:06:27|Stephen Wright|Male|Huncote Harriers|
-10|162|3:09:00|Emma Porter|Male||
-11|161|3:09:03|Alex Porter|Male|Poplar Running club|
-12|168|3:10:46|Jackie Smith|Female|Robin Hood Runners|
-13|158|3:10:55|Nik Nettleship|Female||
-14|149|3:22:20|Sunita Goddard|Female||
-15|148|3:22:40|Daniel Goddard|Male||
-16|154|3:25:06|Laura Law|Female|No Clubs|
-17|160|3:25:08|Lisa Pickford|Female||
-18|171|3:25:13|Georgina Trivett|Female||
-19|147|3:27:22|Heidi Elliott|Female|Girls that Jeff|
-20|307|3:27:25|Robin Barber|Male|Lonely Goat RC|
-21|152|3:34:19|Louise Haworth|Female||
-22|164|3:34:20|Farah Robson|Female|Barrow Runners|
-23|155|3:43:48|Hannah Leach|Female||
-24|143|3:43:52|Sophie Busont|Female||
-25|150|3:45:06|Barbara Gunn|Female||
-26|136|3:45:08|Amanda Bradbury|Female|Ivanhoe runners|
-27|170|3:45:11|Teresa Talbott|Female|Ivanhoe runners|
-28|159|3:54:42|Hilary Ogilvie|Female||
-29|166|3:54:44|Robert Slack|Male|Ivanhoe runners|
-30|169|3:59:55|Neale Smith|Male||
-31|141|4:08:11|Lynn Brough|Female||
-32|163|4:08:17|Anne Robbins|Female||
+|1|144|2:00:29|Martin Button|Male|Poplar Running club|
+|2|124|2:32:44|Gina Bailey|Female|Stilton Striders|
+|3|165|2:38:29|Karen Ryder|Female|Ilkeston Running Club|
+|4|145|2:39:52|Sheila Carruthers|Female|Shepshed Running Club|
+|5|157|2:51:27|Anthony Naylor|Male||
+|6|140|2:55:55|Tracey Brooke|Female||
+|7|172|2:56:01|James Williams|Male||
+|8|167|3:06:25|Graeme Slight|Male|Huncote Harriers|
+|9|173|3:06:27|Stephen Wright|Male|Huncote Harriers|
+|10|162|3:09:00|Emma Porter|Male||
+|11|161|3:09:03|Alex Porter|Male|Poplar Running club|
+|12|168|3:10:46|Jackie Smith|Female|Robin Hood Runners|
+|13|158|3:10:55|Nik Nettleship|Female||
+|14|149|3:22:20|Sunita Goddard|Female||
+|15|148|3:22:40|Daniel Goddard|Male||
+|16|154|3:25:06|Laura Law|Female|No Clubs|
+|17|160|3:25:08|Lisa Pickford|Female||
+|18|171|3:25:13|Georgina Trivett|Female||
+|19|147|3:27:22|Heidi Elliott|Female|Girls that Jeff|
+|20|307|3:27:25|Robin Barber|Male|Lonely Goat RC|
+|21|152|3:34:19|Louise Haworth|Female||
+|22|164|3:34:20|Farah Robson|Female|Barrow Runners|
+|23|155|3:43:48|Hannah Leach|Female||
+|24|143|3:43:52|Sophie Busont|Female||
+|25|150|3:45:06|Barbara Gunn|Female||
+|26|136|3:45:08|Amanda Bradbury|Female|Ivanhoe runners|
+|27|170|3:45:11|Teresa Talbott|Female|Ivanhoe runners|
+|28|159|3:54:42|Hilary Ogilvie|Female||
+|29|166|3:54:44|Robert Slack|Male|Ivanhoe runners|
+|30|169|3:59:55|Neale Smith|Male||
+|31|141|4:08:11|Lynn Brough|Female||
+|32|163|4:08:17|Anne Robbins|Female||
 
 
 # 2022
@@ -733,43 +733,13 @@ Not published, please contact for details.
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
 
 <script type="text/javascript">
-	var matches = document.querySelectorAll("table");
 
-	var results2022Run = new Tabulator(matches[0], {
-		height:400,
-		layout:"fitColumns",
-	});
+    var tables = document.querySelectorAll("table");
 
-	var results2022JuniorWalk = new Tabulator(matches[1], {
-		height:400,
-		layout:"fitColumns",
-	});
-
-	var results2022SeniorWalk = new Tabulator(matches[2], {
-		height:400,
-		layout:"fitColumns",
-	});
-
-	var results2022FunRun = new Tabulator(matches[3], {
-		height:400,
-		layout:"fitColumns",
-	});
-
-	var results2019Run = new Tabulator(matches[4], {
-		height:400,
-		layout:"fitColumns",
-	});
-
-	var results2019Walk = new Tabulator(matches[5], {
-		height:400,
-		layout:"fitColumns",
-		columns:[
-			{field:"place", title:"Place"},
-			{field:"bib", title:"Bib"},
-			{field:"time", title:"Time"},
-			{field:"runner", title:"Runner"},
-			{field:"gender", title:"Gender"},
-			{field:"course", title:"Course"},
-		]
-	});
+    for (var i = 0; i < tables.length; i++) {
+        new Tabulator(tables[i], {
+            height: 400,
+            layout: "fitColumns"
+        });
+    }
 </script>
