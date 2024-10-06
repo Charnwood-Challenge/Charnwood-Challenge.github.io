@@ -751,9 +751,9 @@ for (var i = 0; i < tables.length; i++) {
             {
                 title: "Gender",
                 field: "Gender",
-                headerFilter:true,
-                headerFilterParams: {
-                    values:{"Male":"Male", "Female":"Female", "":""},
+                headerFilter:"list",
+                headerFilterParams:{
+                    valuesLookup:true,
                     clearable:true
                 }
             },
