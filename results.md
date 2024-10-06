@@ -732,14 +732,35 @@ Not published, please contact for details.
 <link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
 
-<script type="text/javascript">
+<link href="https://unpkg.com/tabulator-tables@4.5.3/dist/css/bulma/tabulator_bulma.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
 
+<script type="text/javascript">
     var tables = document.querySelectorAll("table");
 
     for (var i = 0; i < tables.length; i++) {
         new Tabulator(tables[i], {
             height: 400,
-            layout: "fitColumns"
+            layout: "fitColumns",
+            columns: [
+                { title: "Place", field: "Place" },
+                { title: "Bib", field: "Bib" },
+                { title: "Time", field: "Time" },
+                {
+                    title: "Entrant",
+                    field: "Entrant",
+                    headerFilter: "input"  // Add text input filter
+                },
+                {
+                    title: "Gender",
+                    field: "Gender",
+                    headerFilter: "checkboxes", // Add checkbox filter
+                    headerFilterParams: {
+                        values: ["Male", "Female"] // Define checkbox values
+                    }
+                },
+                { title: "Team", field: "Team" }
+            ]
         });
     }
 </script>
