@@ -754,10 +754,12 @@ Not published, please contact for details.
                 {
                     title: "Gender",
                     field: "Gender",
-                    headerFilter: "checkboxes", // Add checkbox filter
+                    headerFilter:true,
                     headerFilterParams: {
-                        values: ["Male", "Female"] // Define checkbox values
-                    }
+                        values:{"Male":"Male", "Female":"Female", "":""},
+                        clearable:true}
+                },
+                }
                 },
                 { title: "Team", field: "Team" }
             ]
