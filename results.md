@@ -736,7 +736,7 @@ Not published, please contact for details.
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.5.3/dist/js/tabulator.min.js"></script>
 
 <script type="text/javascript">
-    var tables = document.querySelectorAll("table");
+var tables = document.querySelectorAll("table");
 
 for (var i = 0; i < tables.length; i++) {
     new Tabulator(tables[i], {
@@ -749,7 +749,7 @@ for (var i = 0; i < tables.length; i++) {
             {
                 title: "Entrant",
                 field: "Entrant",
-                headerFilter: "input" // Add text input filter
+                headerFilter: "input"
             },
             {
                 title: "Gender",
@@ -760,7 +760,15 @@ for (var i = 0; i < tables.length; i++) {
                     clearable:true
                 }
             },
-            { title: "Team", field: "Team" } // This line was missing a comma
+            {
+                title: "Team",
+                field: "Team",
+                headerFilter:"list",
+                headerFilterParams:{
+                    valuesLookup:true,
+                    clearable:true
+                }
+            }
         ]
     });
 }
